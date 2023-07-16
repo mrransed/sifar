@@ -1,0 +1,14 @@
+#login{
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    justify-content: center;
+}
+
+#setLogin{
+    padding-bottom: 500px;
+}
+
+.btn-m{
+     height: 80px !important;
+}
